@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711548892 source:c:\users\administrator\documents\project uts struktur data - dhafa zaidan ahnaf\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+
